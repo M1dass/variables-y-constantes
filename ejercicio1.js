@@ -1,0 +1,4 @@
+let=nombre ;
+nombre="sebastian"
+console.log(nombre);
+  
